@@ -1,0 +1,22 @@
+{
+  "name": "nuwe-cloud-challenge",
+  "version": "1.0.0",
+  "description": "Serverless TaskAPI, using Terraform, AWS, LocalStack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nylander26/serverless-nuwe-taskapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nylander26/serverless-nuwe-taskapi.git/issues"
+  },
+  "homepage": "https://github.com/Nylander26/serverless-nuwe-taskapi.git#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1580.0"
+  }
+}

@@ -11,7 +11,6 @@ terraform.rc
 *.tfvars
 
 *.out
-*.json
 
 *.log
 
